@@ -1,0 +1,8 @@
+{
+	"name": "nodemon",
+	"version": "latest",
+	"dependencies": {
+		"nodemon": "*"
+	},
+	"commands": [""]
+}
